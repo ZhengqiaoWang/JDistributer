@@ -36,3 +36,7 @@ build/*
 
 __pycache__
 .pytest_cache
+.eggs
+*.egg-info
+python/build
+python/dist
